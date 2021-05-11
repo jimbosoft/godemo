@@ -1,0 +1,2 @@
+# godemo
+playing with go
